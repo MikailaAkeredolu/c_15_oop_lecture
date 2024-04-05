@@ -3,6 +3,7 @@ package zoo;
 public class Main {
     public static void main(String[] args) {
 
+        /*
         Dog dog = new Dog("bones");
         System.out.println(dog.id); // 1
 
@@ -42,7 +43,10 @@ public class Main {
 
         roboDog.printPetClassName(roboDog);
 
-
+        */
 
     }
 }
+
+
+

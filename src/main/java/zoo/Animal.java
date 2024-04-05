@@ -1,6 +1,10 @@
 package zoo;
 
+import enumerationdemo.Days;
+
+// Animal has Food
 public abstract class  Animal {
+
 
   //ivar , property, field, attribute
   protected String food;  //change the access modifier
